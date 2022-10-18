@@ -1,4 +1,4 @@
-- Ei, sou apaixonado por tecnologia. Acmpanhando as novidade em front-end e back-end. 
+- Ei, sou apaixonado por tecnologia. Acompanhando as novidade em front-end e back-end. 
 - Hemersonchaves20@hotmail.com
 
 <div align="center">
